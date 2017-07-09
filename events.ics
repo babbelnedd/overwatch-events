@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:boop
+X-WR-CALNAME:OW Events
+X-WR-CALDESC:Overwatch Events
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:19900101T110000Z
+DTSTART:20170709T180000Z
+DURATION:PT1H
+SUMMARY:Immortals vs Rogue
+DESCRIPTION:2017 Beat Invitational\nUpper Bracket Final\nImmortals vs Rogue\nhttps://twitch.tv/beatesports
+UID:a199ca9c613299ab3ff5cd6ef2fc1e8b@boop_ow_events_ical
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:19900101T110000Z
+DTSTART:20170709T194500Z
+DURATION:PT1H
+SUMMARY:ARC 6 vs FN.ow
+DESCRIPTION:2017 Beat Invitational\nLower Bracket Semi-Final\nARC 6 vs FNRGFE\nhttps://twitch.tv/beatesports
+UID:12c7c449e361662516f833cab645a8c5@boop_ow_events_ical
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:19900101T110000Z
+DTSTART:20170729T090000Z
+DURATION:PT1H
+SUMMARY:LunaticHai vs KongDoo P
+DESCRIPTION:OGN Overwatch APEX - Season 3\nFinal\nLunatic-Hai vs KongDoo Panthera\nhttps://twitch.tv/ogn-global
+UID:58d14bbacd8b6e722e83692d38ebfc90@boop_ow_events_ical
+END:VEVENT
+END:VCALENDAR
